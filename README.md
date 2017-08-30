@@ -16,7 +16,7 @@ Naumaan Nayyar.
 
 **Office hours:**
 - TBD
-- Also available via Slack (#ds-sm-15) or Google Hangouts (by appointment)
+- Also available via Slack (#ds-sm) or Google Hangouts (by appointment)
 
 **Lesson Structure:**
 
