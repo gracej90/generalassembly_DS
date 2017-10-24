@@ -1,0 +1,14 @@
+Notes about neural networks:
+
+1. Choosing learning rate
+This depends on which optimizer you are using. In class, we focused on Stochastic Gradient Descent (SGD). Typically, in this case, LR is varied from 0.001 to a few orders of magnitude and the best performing model is selected via cross-validation.
+
+There are also other ways of setting the learning rates for differetn optimizers, e.g. Adagrad, Adadelta etc. For more information, refer to:
+https://datascience.stackexchange.com/questions/410/choosing-a-learning-rate
+https://keras.io/optimizers/
+
+2. Some useful applications (also on Slack):
+Video object recognition - https://softwaremill.com/neural-networks-for-advertisers/
+Activation functions - https://www.analyticsvidhya.com/blog/2017/10/fundamentals-deep-learning-activation-functions-when-to-use-them/
+Document classification - https://machinelearningmastery.com/best-practices-document-classification-deep-learning/
+Time series - https://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/
